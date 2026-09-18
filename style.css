@@ -277,10 +277,6 @@ a {
     transform: scale(1.03);
 }
 
-.project-07 {
-    grid-column: 1 / -1;
-}
-
 .project:hover {
     background-color: #0e151d;
 }
